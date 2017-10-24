@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
@@ -146,3 +147,6 @@ def main(argv):
 
 if __name__ == '__main__':
     main(sys.argv[1:])
+=======
+
+>>>>>>> d23bbc67af02dc6cdf7025a9e5a4a2d821f0d062
